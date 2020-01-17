@@ -14,7 +14,6 @@ import java.util.concurrent.*;
  **/
 public class CyclicBarrierTest {
 
-
     public static void main(String[] args) {
 
         //模拟任务
